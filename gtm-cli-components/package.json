@@ -1,0 +1,12 @@
+{
+  "name": "@gtm-cli/components",
+  "version": "1.0.2",
+  "description": "gtm-cli组件模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mizri.yu",
+  "license": "ISC"
+}
